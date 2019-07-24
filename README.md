@@ -33,7 +33,7 @@ java src/Client
 ```
 
 ### Sample Output
-Add gif here
+![client-server-communication](https://user-images.githubusercontent.com/28151282/61800400-93ae5700-ae4a-11e9-850c-36bd0c75c514.gif)
 
 ## Next Module
 Implementation of a **centralized server:**
